@@ -1,0 +1,6 @@
+Mobil App(Xamarin.Forms)
+blank
+Android
+
+MainPage.xaml değişiklik yapıldı
+İconlar dosya altında
